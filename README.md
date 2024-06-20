@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Alexander.
+
+I'm newby in IT. Intrested in IT.
+Skilled in: Python, EDA, pandas, scikit-learn, NumPy, keras, SQL, Matplotlib, Seaborn, Statsmodel.
+
+My repositories: https://github.com/ADrynkov/projects
+
 <!--
 **ADrynkov/ADrynkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
