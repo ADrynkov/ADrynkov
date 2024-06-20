@@ -1,10 +1,11 @@
 ## Hi there 👋
 
 I'm Alexander.
-
-I'm newby in IT. Intrested in IT.
-Skilled in: Python, EDA, pandas, scikit-learn, NumPy, keras, SQL, Matplotlib, Seaborn, Statsmodel.
-
+  
+I'm newby in IT. Intrested in IT.  
+  
+Skilled in: Python, EDA, pandas, scikit-learn, NumPy, keras, SQL, Matplotlib, Seaborn, Statsmodel.  
+  
 My repositories: https://github.com/ADrynkov/projects
 
 <!--
