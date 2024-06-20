@@ -2,7 +2,7 @@
 
 I'm Alexander.
   
-I'm newby in IT. Intrested in IT.  
+I'm newby in IT. Intrested in DataScience.  
   
 Skilled in: Python, EDA, pandas, scikit-learn, NumPy, keras, SQL, Matplotlib, Seaborn, Statsmodel.  
   
